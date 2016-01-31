@@ -311,7 +311,9 @@ How does python know what `random` is and how to find the code? Because it comes
 2. Again, with your partner, use the `randint` function to generate a random number between 1 and 125.
 
 # Data science sneak peek
-
+- target
+- features
+- split / test
 
 
 # What's next?
